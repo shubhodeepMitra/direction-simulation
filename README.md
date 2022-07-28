@@ -1,3 +1,8 @@
+## About
+
+Given two locations - A & B. and their latitude & longitude . I have calulated ‘real’ points on the road that connects A & B at a constant distance interval of 50m. Using data from google directions API .
+
+
 ## Folder Structure
 
 The workspace contains two folders, where:
